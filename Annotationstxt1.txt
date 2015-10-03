@@ -1,0 +1,45 @@
+Barack Obama, https://nl.wikipedia.org/wiki/Barack_Obama
+climate_change, https://en.wikipedia.org/wiki/Climate_change
+solar_power, https://en.wikipedia.org/wiki/Solar_power
+renewable_energy_sources, https://en.wikipedia.org/wiki/Renewable_energy
+Obama, https://nl.wikipedia.org/wiki/Barack_Obama
+climate_change, https://en.wikipedia.org/wiki/Climate_change
+US, https://en.wikipedia.org/wiki/United_States
+carbon_pollution, https://en.wikipedia.org/wiki/Pollution
+power_plants, https://en.wikipedia.org/wiki/Power_station
+Wyoming, https://en.wikipedia.org/wiki/Wyoming
+West_Virginia, https://en.wikipedia.org/wiki/West_Virginia
+Kentucky, https://en.wikipedia.org/wiki/Kentucky
+President_Obama, https://nl.wikipedia.org/wiki/Barack_Obama
+climate_summit, https://en.wikipedia.org/wiki/Climate_Summit
+US_state, https://en.wikipedia.org/wiki/U.S._state
+BBC, https://en.wikipedia.org/wiki/BBC
+President_Obama, https://nl.wikipedia.org/wiki/Barack_Obama
+climate_change, https://en.wikipedia.org/wiki/Climate_change
+greenhouse_gases, https://en.wikipedia.org/wiki/Greenhouse_gas
+Hilary_Clinton, https://en.wikipedia.org/wiki/Hillary_Clinton
+Climate_change, https://en.wikipedia.org/wiki/Climate_change
+Obama, https://nl.wikipedia.org/wiki/Barack_Obama
+climate_change, https://en.wikipedia.org/wiki/Climate_change
+Democratic, https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+presidential_candidate, https://en.wikipedia.org/wiki/President
+Hilary_Clinton, https://en.wikipedia.org/wiki/Hillary_Clinton
+Obama, https://nl.wikipedia.org/wiki/Barack_Obama
+greenhouse_gas_emissions, https://en.wikipedia.org/wiki/Greenhouse_gas
+Republican, https://en.wikipedia.org/wiki/Republican_Party_(United_States)
+Heather_Zichal
+energy_adviser
+president, https://en.wikipedia.org/wiki/President
+Democrats, https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+renewable_energy_sources, https://en.wikipedia.org/wiki/Renewable_energy
+natural_gas_plants, https://en.wikipedia.org/wiki/Natural-gas_processing
+greenhouse_gases, https://en.wikipedia.org/wiki/Greenhouse_gas
+president, https://en.wikipedia.org/wiki/President
+Republican, https://en.wikipedia.org/wiki/Republican_Party_(United_States)
+carbon_emissions, https://en.wikipedia.org/wiki/Greenhouse_gas
+Clean_Air_Act, https://en.wikipedia.org/wiki/Clean_Air_Act_(United_States)
+Republican, https://en.wikipedia.org/wiki/Republican_Party_(United_States)
+climate_change, https://en.wikipedia.org/wiki/Climate_change
+UN, https://en.wikipedia.org/wiki/United_Nations
+climate_change, https://en.wikipedia.org/wiki/Climate_change
+Clean_Power_Plan, https://en.wikipedia.org/wiki/Clean_Power_Plan
