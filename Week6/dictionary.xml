@@ -1,15 +1,15 @@
-<entry>
-    <word> language </word>
-    <pronounciation> ’la[ng]-gwij, -wij </pronounciation>
-    <function> noun </function>
+<entry word= "language" function= "noun" pronounciation= "’la[ng]-gwij, -wij" date= "14th century">
     <etymology>
-        <tongue> middle english </tongue>
-        <tongue> old french </tongue>
-        <tongue> langue tongue </tongue>
-        <tongue> language </tongue>
-        <tongue> latin lingua </tongue>
+        <tongue language= "latin">lingua 
+            <tongue> language
+                <tongue> langue tongue
+                    <tongue language= "old french">
+                        <tongue language= "middle english"></tongue>
+                    </tongue>
+                </tongue>
+            </tongue>
+        </tongue>
     </etymology>
-    <date> 14th century </date>
     <meanings>
         <meaning> 
             <submeaning> the words, their pronunciation, and the methods of combining them used and understood by a community </submeaning>
@@ -18,17 +18,17 @@
                 <subsubmeaning> a systematic means of communicating ideas or feelings by the use of conventionalized signs, sounds, gestures, or marks having understood meanings </subsubmeaning>
                 <subsubmeaning> the suggestion by objects, actions, or conditions of associated ideas or feelings </subsubmeaning>
                 <subsubmeaning>  the means by which animals communicate </subsubmeaning>
-                <subsubmeaning> a formal system of signs and symbols (as <ref> FORTRAN </ref> or a calculus in logic) including rules for the formation and transformation of admissible expressions </subsubmeaning>
-                <subsubmeaning> <ref> MACHINE LANGUAGE 1 </ref> </subsubmeaning>
+                <subsubmeaning> a formal system of signs and symbols (as <ref word= "FORTRAN"/> or a calculus in logic) including rules for the formation and transformation of admissible expressions </subsubmeaning>
+                <subsubmeaning> <ref word= "MACHINE LANGUAGE 1"/> </subsubmeaning>
             </submeaning>
         </meaning>
         <meaning>
-            <submeaning> form or manner of verbal expression; specifically : <ref> STYLE </ref> </submeaning>
+            <submeaning> form or manner of verbal expression; specifically : <ref word= "STYLE"/> </submeaning>
             <submeaning> the vocabulary and phraseology belonging to an art or a department of knowledge </submeaning>
-            <submeaning> <ref> PROFANITY </ref> </submeaning>
+            <submeaning> <ref word= "PROFANITY"/> </submeaning>
         </meaning>
         <meaning>
             the study of language especially as a school subject
         </meaning>
-    </meanings>
+    </meanings>            
 </entry>
