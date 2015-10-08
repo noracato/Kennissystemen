@@ -1,12 +1,8 @@
-<entry word= "language" function= "noun" pronounciation= "’la[ng]-gwij, -wij" date= "14th century">
+ntry word= "language" function= "noun" pronounciation= "’la[ng]-gwij, -wij" date= "14th century">
     <etymology>
         <tongue language= "latin">lingua 
-            <tongue> language
-                <tongue> langue tongue
-                    <tongue language= "old french">
-                        <tongue language= "middle english"></tongue>
-                    </tongue>
-                </tongue>
+            <tongue language="old french"> langue tongue
+                 <tongue language="middle english"> language </tongue>
             </tongue>
         </tongue>
     </etymology>
@@ -27,8 +23,6 @@
             <submeaning> the vocabulary and phraseology belonging to an art or a department of knowledge </submeaning>
             <submeaning> <ref word= "PROFANITY"/> </submeaning>
         </meaning>
-        <meaning>
-            the study of language especially as a school subject
-        </meaning>
+        <meaning> the study of language especially as a school subject </meaning>
     </meanings>            
-</entry>
+</entry>"
