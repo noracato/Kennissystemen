@@ -1,4 +1,4 @@
-ntry word= "language" function= "noun" pronounciation= "’la[ng]-gwij, -wij" date= "14th century">
+<entry word= "language" function= "noun" pronounciation= "’la[ng]-gwij, -wij" date= "14th century">
     <etymology>
         <tongue language= "latin">lingua 
             <tongue language="old french"> langue tongue
@@ -14,15 +14,15 @@ ntry word= "language" function= "noun" pronounciation= "’la[ng]-gwij, -wij" da
                 <subsubmeaning> a systematic means of communicating ideas or feelings by the use of conventionalized signs, sounds, gestures, or marks having understood meanings </subsubmeaning>
                 <subsubmeaning> the suggestion by objects, actions, or conditions of associated ideas or feelings </subsubmeaning>
                 <subsubmeaning>  the means by which animals communicate </subsubmeaning>
-                <subsubmeaning> a formal system of signs and symbols (as <ref word= "FORTRAN"/> or a calculus in logic) including rules for the formation and transformation of admissible expressions </subsubmeaning>
-                <subsubmeaning> <ref word= "MACHINE LANGUAGE 1"/> </subsubmeaning>
+                <subsubmeaning> a formal system of signs and symbols (as <ref>FORTRAN</ref> or a calculus in logic) including rules for the formation and transformation of admissible expressions </subsubmeaning>
+                <subsubmeaning> <ref>MACHINE LANGUAGE 1</ref> </subsubmeaning>
             </submeaning>
         </meaning>
         <meaning>
-            <submeaning> form or manner of verbal expression; specifically : <ref word= "STYLE"/> </submeaning>
+            <submeaning> form or manner of verbal expression; specifically : <ref>STYLE</ref> </submeaning>
             <submeaning> the vocabulary and phraseology belonging to an art or a department of knowledge </submeaning>
-            <submeaning> <ref word= "PROFANITY"/> </submeaning>
+            <submeaning> <ref>POFANITY</ref> </submeaning>
         </meaning>
         <meaning> the study of language especially as a school subject </meaning>
     </meanings>            
-</entry>"
+</entry>
